@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main(){
+int a=2,b=3;
+if(a>b){
+printf("\n a is greater");
+else
+printf("\n bi is gretaer");
+}
+
